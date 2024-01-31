@@ -1,0 +1,45 @@
+body {
+    background-color: #fff;
+    padding-top: 48px;
+    padding-bottom: 200px;
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Segoe UI","Noto Sans Japanese", 'Hiragino Kaku Gothic ProN', "ヒラギノ角ゴ ProN W3", "Hiragino Sans", "メイリオ", Meiryo, sans-serif;
+}
+
+.inner {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 32px;
+}
+
+.logo {
+    height: 56px;
+    width: 214px;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: 600;
+    color: #FF485E;
+    line-height: 1.5;
+    margin-top: 8px;
+}
+
+li {
+    margin-top: 24px;
+}
+
+h2 {
+    line-height: 1.5;
+    font-size: 16px;
+    margin-bottom: 12px;
+    font-weight: 600;
+}
+
+p {
+    font-weight: 300;
+    line-height: 1.5;
+    margin-bottom: 8px;
+}
+
+a:link {color:red;}
+a:visited {color:red;}
